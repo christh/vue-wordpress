@@ -1,5 +1,5 @@
-![Vue.wordpress icon](http://vue-wordpress-demo.bshiluk.com/wp-content/uploads/2019/03/vue-wordpress-logo-e1551495565479.png)
-# Vue.wordpress
+![Vue.wordpress icon](https://avatars2.githubusercontent.com/u/19532056?s=460&v=4)
+# Vue.yourface
 
 > A Wordpress starter theme built using the WP REST API and Vue.js. Optimized for SEO, performance, and ease of development.
 
